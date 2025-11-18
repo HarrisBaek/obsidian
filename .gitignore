@@ -1,0 +1,16 @@
+# Obsidian 설정 폴더 내부 – 대부분의 UI 상태·캐시 등
+#.obsidian/workspace.json
+#.obsidian/workspace-mobile.json
+#.obsidian/app.json
+#.obsidian/cache/
+# (필요하다면) 전체 설정 폴더 무시
+.obsidian/
+
+# 운영체제/편집기 관련 불필요 파일
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 버려지는 휴지통 폴더 (사용하는 경우)
+.trash/
